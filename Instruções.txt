@@ -1,0 +1,11 @@
+Instruções de uso do programa Gerador de imagem QRCode
+
+OBS: Caso você não tenha instalado a biblioteca PyQRCode  , abra o Processador de comandos (CMD) e digite o seguinte comando:
+pip install pyqrcode
+
+1- Abra o programa "Gerador de imagem QRCode.py" com o interpretador do Python;
+OBS: Caso você não tenha o IDLE (interpretador do Python), baixe-o no site https://www.python.org
+
+2- Um arquivo chamado "code.png" será criado no mesmo local do gerador, basta clicá-lo duas vezes e a imagem será aberta;
+
+3- Para acessar o endereço da imagem do QRCode, abra um leitor de QRCode e carregue esse arquivo.
